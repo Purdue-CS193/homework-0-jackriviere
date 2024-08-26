@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# This is the biggest header
+## This is a slightly smaller header
+### This is the smallest header
+Computer Science is 
+- cool
+- fun
+- awesome
+and it will help me
+1. meet people
+2. get a well paying job that I enjoy
+3. **learn** _cool_ things
+`public static void main (String[] args)`
